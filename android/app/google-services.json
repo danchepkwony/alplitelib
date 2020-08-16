@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "927991670558",
+    "firebase_url": "https://african-library-project.firebaseio.com",
+    "project_id": "african-library-project",
+    "storage_bucket": "african-library-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927991670558:android:519c5615fa39c8bf030b0f",
+        "android_client_info": {
+          "package_name": "com.hackforafrica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927991670558-c483rp85sgdckqpcg4q090md812hbqa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F7g482M_6WK4WEhY-uB7RSHW6_ldlNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927991670558-c483rp85sgdckqpcg4q090md812hbqa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927991670558:android:648b6c849978d57f030b0f",
+        "android_client_info": {
+          "package_name": "com.hackforafricalitelib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927991670558-c483rp85sgdckqpcg4q090md812hbqa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F7g482M_6WK4WEhY-uB7RSHW6_ldlNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927991670558-c483rp85sgdckqpcg4q090md812hbqa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
