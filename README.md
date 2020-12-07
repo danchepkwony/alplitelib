@@ -36,14 +36,6 @@ With a connected device or simulator run:
     Create a second terminal:
     npx react-native run-android
 
-## Contributing
-
-Source Code: github.com/$project/$project
-
 ## Contact
 
 dan.k.chepkwony@gmail.com
-
-## License
-
-This is project does not have a license.
