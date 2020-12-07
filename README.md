@@ -1,14 +1,11 @@
 # African Library Project Hackathon
----
 
 ## Description
----
 
 This project is an attempt to simplify the lives of rural librarians in Africa.
 It uses Firebase's authentication and database to store information about librarians' clients.
 
 ## Prerequisites
----
 
 *@react-native-firebase/app
 *@react-native-firebase/auth
@@ -30,7 +27,6 @@ To install these just type "npm install --save (dependency)"
 replacing "(dependency)" with the dependancies listed above
 
 ## Installation
----
 
 With a connected device or simulator run:
 
@@ -41,16 +37,13 @@ With a connected device or simulator run:
     npx react-native run-android
 
 ## Contributing
----
 
 Source Code: github.com/$project/$project
 
 ## Contact
----
 
 dan.k.chepkwony@gmail.com
 
 ## License
----
 
 This is project does not have a license.
