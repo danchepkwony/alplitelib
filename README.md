@@ -7,21 +7,21 @@ It uses Firebase's authentication and database to store information about librar
 
 ## Prerequisites
 
-*@react-native-firebase/app
-*@react-native-firebase/auth
-*@react-native-firebase/firestore
-*@react-navigation/native
-*@react-navigation/stack
-*react-native-gesture-handler
-*react-native-reanimated
-*react-native-screens
-*react-native-safe-area-context
-*@react-native-community/masked-view
-@react-navigation/bottom-tabs
-react-native-tab-view
+* @react-native-firebase/app
+* @react-native-firebase/auth
+* @react-native-firebase/firestore
+* @react-navigation/native
+* @react-navigation/stack
+* react-native-gesture-handler
+* react-native-reanimated
+* react-native-screens
+* react-native-safe-area-context
+* @react-native-community/masked-view
+* @react-navigation/bottom-tabs
+* react-native-tab-view
 
-react-native-material-dropdown
-react-native-searchable-dropdown
+* react-native-material-dropdown
+* react-native-searchable-dropdown
 
 To install these just type "npm install --save (dependency)"
 replacing "(dependency)" with the dependancies listed above
